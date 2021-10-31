@@ -1,0 +1,21 @@
+.slider{
+    height: 650px;
+}
+.travel-with-tour{
+    margin-top: 50px;
+}
+.icon{
+    font-size: 70px;
+}
+.about{
+    /* margin-left: 10px;
+    padding: 5px 10px;  */
+    background-color: antiquewhite;  
+}
+.slider-title{
+    color:#ff7f47;
+    font-size: 100px;
+}
+.slider-body{
+    color: #17ffc9;
+}
